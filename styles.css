@@ -1,0 +1,20 @@
+body{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+article#primeiro{
+   height: 100px;
+   width: 100px;
+   background-color: red;
+   border-radius: 50%;
+}
+article#segundo{
+  height: 100px;
+  width: 100px;
+  background-color:blue;
+  border-radius: 50%;
+}
+.circulo{
+  box-shadow: 3px 2px 10px;
+}
